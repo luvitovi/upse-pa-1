@@ -3,3 +3,4 @@ Práctica de Programacion Avanzada 1 - UPSE
 
 
 Ricardo Ochoa
+COMO EJECUTAR ESTE PROYECTO
