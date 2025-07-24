@@ -5,3 +5,29 @@ Práctica de Programacion Avanzada 1 - UPSE
 
 
 Luis Panchana
+
+Cómo ejecutar el proyecto
+
+1. Clona el repositorio:
+    ```bash
+    git clone https://github.com/usuario/proyecto-pa1.git
+    ```
+2. Ingresa al directorio del proyecto:
+    ```bash
+    cd proyecto-pa1
+    ```
+3. Instala las dependencias necesarias (si aplica):
+    ```bash
+    npm install
+    ```
+4. Ejecuta el proyecto:
+    ```bash
+    npm start
+    ```
+
+Asegúrate de tener instalado Node.js y npm en tu sistema.
+    
+
+
+
+
