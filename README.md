@@ -2,8 +2,8 @@
 Práctica de Programacion Avanzada 1 - UPSE
 
 # Cómo ejecutar este proyecto
-Instalar Git en la coomputadora
-Seguir las instrucciones explicadas en clase
-Finalizar el trabajo
+1. Instalar Git en la coomputadora
+2. Seguir las instrucciones explicadas en clase
+3. Finalizar el trabajo
 
 Angel Rodriguez Catuto
